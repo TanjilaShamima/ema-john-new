@@ -1,0 +1,16 @@
+.add-to-cart-button{
+    background-color: #F0C14B;
+    padding: 2px 35px;
+    font-size: 13px;
+    margin-left : 20px;
+}
+.border-bottom{
+    border-bottom: 1px solid gray;
+}
+.border-none{
+    border-bottom: none !important;
+    padding: 20px 5px;;
+}
+.product{
+    padding : 20px 0px;
+}

@@ -1,0 +1,10 @@
+.product-container{
+    width : 80%;
+    float: left;
+    border-right: 1px solid lightgray;
+    padding-right: 20px;;
+}
+.cart-container{
+    width : 18%;
+    float : right;
+}

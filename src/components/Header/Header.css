@@ -1,0 +1,48 @@
+.bottom-header a{
+    text-decoration: none;
+    color : #F08804 !important;
+    font-weight: bold;
+}
+
+.top-header {
+    text-align : center;
+}
+
+.top-header img{
+    height : 80px;
+    width : 300px;
+    margin : 5px auto;
+  
+}
+.navigation{
+    background-color : black;
+    padding: 10px;
+}
+.navigation nav{
+    margin-left: 20px;
+
+}
+.navigation nav a {
+    text-decoration: none;
+    color: white;
+    padding : 10px 5px;
+    margin-left: 10px;
+
+}
+
+.navigation nav a:hover {
+    background-color: lightgray;
+   
+}
+
+.bottom-header{
+    background-color: #222222;
+    padding : 20px;
+}
+
+input[type="text"] {
+    width: 80%;
+    padding: 6px 5px;
+    margin-left: 100px;
+    margin-right: 10px;
+}
